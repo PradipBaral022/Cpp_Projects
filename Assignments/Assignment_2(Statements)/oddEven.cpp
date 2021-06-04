@@ -1,4 +1,4 @@
-/*C++ program to find if an integer is even or odd or neither [Nested question - here check if the number = 0 or not. If no, then check for positive and negative value inside the main if statement]*/
+/*C++ program to find if an integer is even or odd or neither [Nested question: here check if the number = 0 or not. If no, then check for positive and negative value inside the main if statement]*/
 #include <iostream>
 using namespace std;
 
