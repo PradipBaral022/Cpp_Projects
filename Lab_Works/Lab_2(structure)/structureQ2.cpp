@@ -1,5 +1,5 @@
 /* Q. Write a program to read the record of 3 students(name, address and roll) and display the
-record using structure in C++ */
+record using structure in C++. */
 #include <iostream>
 using namespace std;
 
