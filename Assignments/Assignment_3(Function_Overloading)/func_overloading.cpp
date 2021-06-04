@@ -20,4 +20,3 @@ int main()
     add(1, 5.6);
     return 0;
 }
-//$ git add path/to/file
