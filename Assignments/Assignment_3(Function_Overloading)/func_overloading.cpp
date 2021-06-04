@@ -17,6 +17,6 @@ int main()
 {
     add(1, 2);
     add(1.2, 2, 3.4);
-    add(1, 5.6);
+    add(1, 5.9);
     return 0;
 }
