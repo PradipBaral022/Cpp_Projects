@@ -1,6 +1,6 @@
 //Program to print positive number entered by the user.
-//Program to check whether an integer is positive or negative
-//Program to check whether an integer is positive, negative or zero
+//Program to check whether an integer is positive or negative.
+//Program to check whether an integer is positive, negative or zero.
 #include <iostream>
 using namespace std;
 
