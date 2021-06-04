@@ -12,7 +12,7 @@ struct student
 int main()
 {
     student s;
-    cout << "Enter the name of the student" << endl;
+    cout << "Enter the name of the student:" << endl;
     cin >> s.name;
     cout << "Enter the roll no:" << endl;
     cin >> s.roll_no;
