@@ -7,7 +7,7 @@ int main()
     int a, b;
     cout << "Enter any two numbers:";
     cin >> a >> b;
-    int calculate = 4;
+    int calculate = 3;
     switch (calculate)
     {
     case 1:
