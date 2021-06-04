@@ -1,4 +1,4 @@
-//C++ program to find the sum of first n natural numbers.
+//C++ program to find the sum of first n natural numbers
 #include <iostream>
 using namespace std;
 
