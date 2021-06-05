@@ -4,7 +4,7 @@
 using namespace std;
 
 void areaOfTriangle();
-int main
+int main()
 {
     areaOfTriangle();
     return 0;
