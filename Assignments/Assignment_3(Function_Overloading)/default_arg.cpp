@@ -13,7 +13,7 @@ int sum(int x, int y, int z)
     return (sum1);
 }
 
-int sum(int a = 3, int b = 9)
+int sum(int a = 3, int b = 8)
 
 {
 
