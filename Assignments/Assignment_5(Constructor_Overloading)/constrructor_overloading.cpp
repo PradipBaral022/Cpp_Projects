@@ -59,7 +59,7 @@ int main()
     Construct c1;
 
     //paramiterized constructor with three argument is called
-    Construct c2(2, "Godatta Prasad", 547.88);
+    Construct c2(2, "Godatta Prasad", 547.82);
 
     /*copy constructor is called where 
   data of object passed as argument is assigned
