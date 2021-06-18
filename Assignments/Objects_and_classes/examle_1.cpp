@@ -23,7 +23,7 @@ int main()
 {
     //create object of Room class
     Room room1;
-    //assign valiues to data numbers
+    //assign valiues to data numbers.
     room1.length = 42.5;
     room1.breadth = 30.7;
     room1.height = 19.7;
