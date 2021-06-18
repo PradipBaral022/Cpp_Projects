@@ -8,7 +8,7 @@ private:
 public:
     construct()
     {
-        x = 10;
+        x = 11;
         y = 20;
     }
     void display()
