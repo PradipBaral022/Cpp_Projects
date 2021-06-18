@@ -58,7 +58,7 @@ int main()
     //Default constructor or non paramitarized constructor is called.
     Construct c1;
 
-    //paramiterized constructor with three argument is called.
+    //paramiterized constructor with three argument is called
     Construct c2(2, "Godatta Prasad", 547.88);
 
     /*copy constructor is called where 
