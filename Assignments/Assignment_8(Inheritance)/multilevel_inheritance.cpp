@@ -3,7 +3,7 @@ using namespace std;
 class parent
 {
 
-protected:
+public:
     parent()
     {
         cout << "Parent Constructor is called! " << endl;
@@ -13,9 +13,9 @@ protected:
         cout << "Parent Destructor is called! " << endl;
     }
 };
-class child1 : protected parent
+class child1 : public parent
 {
-protected:
+public:
     child1()
     {
         cout << "Child1 Constructor is called! " << endl;
@@ -25,7 +25,7 @@ protected:
         cout << "Child1 Destructor is called! " << endl;
     }
 };
-class child2 : protected child1
+class child2 : public child1
 {
 public:
     child2()
