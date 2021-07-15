@@ -1,5 +1,5 @@
 ---
-#C++ Labsheet-6(Inheritance)
+C++ Labsheet-6(Inheritance)
 ---
 
 ## Objective: To familiarize students with inheritance concepts.
@@ -19,9 +19,11 @@
 
 In OOP ambiguity means duplication of members due to inheritance, In child class there will be 2 or more member with same name from inherited class.
 
-### Virtual Base Class: To avoid ambiguity we can make the common base class as virtual base
+### Virtual Base Class: 
+To avoid ambiguity we can make the common base class as virtual base
 
-### ClassContainerClass: Class consists of object of one class in another object
+### ClassContainerClass: 
+Class consists of object of one class in another object
 
 ## Programs:
 
