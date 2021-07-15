@@ -2,9 +2,10 @@
 C++ Labsheet-6(Inheritance)
 ---
 
-## Objective: To familiarize students with inheritance concepts.
+## Objective: "To familiarize students with inheritance concepts"
 
-## Theory:Inheritance: Process of creating new class from one or more existing class, the properties of existing class is extended to new class, the new class is called derived class and existing class is called base class
+## Theory:Inheritance: 
+Process of creating new class from one or more existing class, the properties of existing class is extended to new class, the new class is called derived class and existing class is called base class
 
 ## Types of Inheritance:
 
